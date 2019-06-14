@@ -19,7 +19,8 @@
 
 > 获取软件程序
 **Android**  https://www.lanzous.com/i4f18mf
-**Windows**  https://www.lanzous.com/i4f18mf
+<br />
+**Windows**  https://www.lanzous.com/i4kg8ve
 
 
 大白的Email <1904812793@qq.com> 
