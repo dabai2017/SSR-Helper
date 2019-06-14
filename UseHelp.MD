@@ -16,11 +16,8 @@
 4. 导入完成后，再次右键点击选择服务器，选择刚刚导入的节点，然后根据情况更改**系统代理模式**。
 
 
-
-> 获取软件程序
-**Android**  https://www.lanzous.com/i4f18mf
-> 获取软件程序
-**Windows**  https://www.lanzous.com/i4kg8ve
+- **Android**  https://www.lanzous.com/i4f18mf
+- **Windows**  https://www.lanzous.com/i4kg8ve
 
 
 **大白的Email <1904812793@qq.com>**
