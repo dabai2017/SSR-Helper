@@ -1,7 +1,7 @@
 # SSRR指引
 这里是**大白2017**关于SSR的一些指引
 
-> 帮助 [点击查看SSR的一些帮助](https://github.com/dabai2017/SSR-Helper/UseHelp.MD "Title")
+> 帮助 [点击查看SSR的一些帮助](https://github.com/dabai2017/SSR-Helper/blob/master/UseHelp.MD "Title")
 
 
 
